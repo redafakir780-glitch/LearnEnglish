@@ -1,0 +1,10 @@
+# Logs
+node_modules/
+.expo/
+.expo-shared/
+.android/
+.ios/
+*.log
+.env
+service-account.json
+google-services.json
